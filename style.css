@@ -8,7 +8,7 @@ h1{
 .orange-color{
     color: orange;
 }
-section{
+.section{
     display: flex;
     margin-bottom: 140px;
 
@@ -39,4 +39,13 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.orange{
+    color: orange;
+}
+.shadow-box{
+    box-shadow: 10px 10px 10px 10px grey;
+    margin: 30px 30px ;
+    padding left: 10px;
+    
 }
